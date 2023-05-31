@@ -7,7 +7,7 @@ import tkinter.messagebox
 
 window = Tk()# creating empty window
 
-window.title("ProjectGurukul Currency Conversion")# adding title to the window
+window.title("Currency Conversion")# adding title to the window
 window.geometry("700x400")
 
 head = tk.Label( font=('Helvetica', 19, 'bold'), text='Currency Converter',
